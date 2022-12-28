@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  margin-top: -7rem;
+}
+.wrapper {
+  width: fit-content;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+.title {
+  margin: 1rem;
+  font-size: 20px;
+}
+.textField {
+  width: 350px;
+}
+.inputWrapper {
+  margin-bottom: 1rem;
+}
